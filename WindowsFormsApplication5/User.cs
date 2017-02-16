@@ -8,7 +8,7 @@ namespace WindowsFormsApplication5
 {
     class User
     {
-        private string unused;
+        private string unuseded;
         private string username;
         private int password;
         public string name
